@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "BoxOSC",
+        "repositoryURL": "/Users/ericboxer/Documents/BoxOSC_Swift",
+        "state": {
+          "branch": "main",
+          "revision": "b2f4e3bbe7f70a8499dfaac315de0ce975235d87",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
